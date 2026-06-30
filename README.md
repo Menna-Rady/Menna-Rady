@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://github.com/Menna-Rady.png" width="170" alt="Mennatullah Mohammed Rady profile photo" />
+
 # Mennatullah Mohammed Rady
 
 [![Animated roles](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Data+Engineer;Building+automated+ETL+and+ELT+pipelines;Apache+Airflow+%C2%B7+dbt+%C2%B7+PySpark+%C2%B7+Azure;Ranked+1st+in+MIS)](https://git.io/typing-svg)
