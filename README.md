@@ -2,47 +2,55 @@
 
 <img src="banner.png" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
 
-# Mennatullah Mohammed Rady
+# Hi, I'm Mennatullah Rady 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Engineer;Building+reliable+ELT+pipelines;Dimensional+data+warehousing;Apache+Airflow+%2B+dbt+%2B+PySpark;Ranked+1st+in+MIS" alt="Animated roles" />
-
-[![Email](https://img.shields.io/badge/Email-mennarady15%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-menna--mohammed0-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
-[![GitHub](https://img.shields.io/badge/GitHub-Menna--Rady-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Menna-Rady)
-[![Location](https://img.shields.io/badge/Cairo-Egypt-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white)](#)
-
-![Profile views](https://komarev.com/ghpvc/?username=Menna-Rady&color=38bdf8&style=flat-square&label=Profile+views)
+**Data Engineer • ETL/ELT Pipelines • Analytics Engineering**
 
 </div>
 
 ---
 
-### About me
+## 🔗 Quick Links
 
-Data Engineering student ranked 1st in MIS at Capital University, currently completing a Data Engineering internship at **Digital Egypt Pioneers (DEPI)**. I build ETL/ELT pipelines with Apache Airflow, model dimensional warehouses with dbt, and ship cloud data infrastructure on Azure and Snowflake. Earlier work spans AI/ML pipelines and BI dashboarding, so I design data platforms with the downstream analytics and AI use case in mind, not just the pipe.
+<div align="center">
 
-- 🔭 Currently building automated ETL/ELT pipelines with Apache Airflow and dbt
-- 🏗️ Designing dimensional warehouses (Star/Snowflake schema) on Azure Synapse and Snowflake
-- ⚡ Processing large-scale data with Apache Spark/PySpark
-- 🎓 Google Data Analytics Professional Certificate · IBM Advanced Data Science · DEPI Data Engineering Track (120 hrs)
-- 🎯 2026 goal: ship a production-style project with CI/CD, tests, and orchestrated dbt + Airflow running on a real cloud warehouse
-- 💬 Open to Data Engineering / Analytics Engineering internships and junior roles
+[🌐 Portfolio](https://menna-rady.github.io/portfolio/) • [💼 LinkedIn](https://linkedin.com/in/menna-mohammed0) • [🐙 GitHub](https://github.com/Menna-Rady) • [📧 Email](mailto:mennarady15@gmail.com)
+
+</div>
 
 ---
 
-### Core capabilities
+## 📋 Table of Contents
 
-| Area | Technologies and practices |
-|---|---|
-| Data engineering | ETL/ELT pipelines, Apache Airflow DAGs, Star/Snowflake schema modeling, data warehousing |
-| Cloud & big data | Azure Synapse Analytics, Azure Data Lake Gen2, Apache Spark/PySpark, Hadoop, Kafka |
-| Analytics engineering | dbt, Snowflake, MetricFlow, SQL (CTEs, window functions) |
-| BI & visualization | Power BI, DAX, Tableau |
-| Databases | PostgreSQL, MySQL, SQL Server, MongoDB |
-| Programming | Python (NumPy, Pandas, Matplotlib, TensorFlow) |
-| DevOps | Docker, Git/GitHub, CI/CD pipelines |
+- [About Me](#about-me)
+- [Highlights](#highlights)
+- [Tech Stack](#tech-stack)
+- [Selected Projects](#selected-projects)
+- [How I Work](#how-i-work)
+- [Get in Touch](#get-in-touch)
+- [Quote](#quote)
 
-### Tech stack
+---
+
+## About Me
+
+Data Engineering student ranked **1st in Management Information Systems** at Capital University, currently completing a Data Engineering internship at **Digital Egypt Pioneers (DEPI)**. 
+
+I build **ETL/ELT pipelines** with Apache Airflow, model **dimensional warehouses** with dbt, and ship **cloud data infrastructure** on Azure and Snowflake. My background also spans AI/ML pipelines and BI dashboarding, so I design data platforms with the downstream analytics and AI use case in mind — not just the pipe.
+
+---
+
+## Highlights
+
+- ⚙️ **Hands-on experience** building production-style ETL/ELT pipelines with Apache Airflow DAGs
+- 📊 **Dimensional data warehouse design** (Star/Snowflake schema) using dbt and MetricFlow
+- 🌐 **Comfortable across the full data stack**: ingestion, cloud warehousing (Azure Synapse, Snowflake), and BI (Power BI, Tableau)
+- 🔍 **Strong SQL fundamentals**: CTEs, window functions, schema design
+- 🥇 **Ranked 1st in Management Information Systems** at Capital University
+
+---
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -58,49 +66,63 @@ Data Engineering student ranked 1st in MIS at Capital University, currently comp
 
 ---
 
-### Selected projects
+## Selected Projects
 
-**[Earnest Transformations](https://github.com/Menna-Rady/earnest_transformations)** — dbt project for Egyptian e-commerce analytics
-dbt models with a MetricFlow semantic layer on Snowflake, built on a star schema for analytical querying.
+### [Earnest Transformations](https://github.com/Menna-Rady/earnest_transformations)
+dbt project for Egyptian e-commerce analytics with a MetricFlow semantic layer on Snowflake, built on a star schema for analytical querying.
+
 `dbt` · `Snowflake` · `MetricFlow` · `Star Schema` · `Analytics Engineering`
 
-**Olympic Medals Data Pipeline**
+---
+
+### Olympic Medals Data Pipeline
 End-to-end automated ETL pipeline using Airflow DAGs to scrape live Olympic medal data from Wikipedia into 6 structured datasets, with a multi-layer dbt warehouse (`fact_games_summary`, `fact_sport_summary`, `dim_olympics`, `dim_host`, `dim_sport`, `dim_season`) and Docker/Astro CLI containerization.
+
 `Apache Airflow` · `dbt` · `DuckDB` · `Docker` · `Python` · `BeautifulSoup` · `SQL`
 
-**[Cairo Weather Prediction](https://github.com/Menna-Rady/AI-Cairo-Weather)** — ML web app
-EDA and a Linear Regression model over 15+ years of Cairo weather data (2009–2025), deployed as an interactive Streamlit app with prediction, advice, and reporting views.
+---
+
+### [Cairo Weather Prediction](https://github.com/Menna-Rady/AI-Cairo-Weather)
+EDA and Linear Regression model over 15+ years of Cairo weather data (2009–2025), deployed as an interactive Streamlit app with prediction, advice, and reporting views.
+
 `Python` · `Scikit-learn` · `Pandas` · `Streamlit` · `Matplotlib`
 
-**Student Mental Stress Analysis** — Power BI dashboard
-Multi-page dashboard analyzing stress patterns across 760 university students, with drill-through filters across academic performance, counseling attendance, and lifestyle factors.
+---
+
+### Student Mental Stress Analysis
+Multi-page Power BI dashboard analyzing stress patterns across 760 university students, with drill-through filters across academic performance, counseling attendance, and lifestyle factors.
+
 `Power BI` · `DAX` · `Data Modeling`
 
 ---
 
-### GitHub stats
+## How I Work
+
+- 🏗️ **Schema first, ETL second** — I design data models before writing pipeline code
+- ✅ **Validate data quality with automation** — dbt tests and schema constraints instead of manual review
+- 📖 **Document for lineage** — I document pipelines so the next person (or future me) can trace data flow
+- 🐳 **Containerize for reproducibility** — Docker keeps environments consistent across local, CI/CD, and production
+
+---
+
+## Get in Touch
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Menna-Rady&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-Rady&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-Rady&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
-</div>
+**[🌐 Portfolio](https://menna-rady.github.io/portfolio/)** — **[💼 LinkedIn](https://linkedin.com/in/menna-mohammed0)** — **[🐙 GitHub](https://github.com/Menna-Rady)** — **[📧 Email](mailto:mennarady15@gmail.com)**
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-Rady&bg_color=0D1117&color=38BDF8&line=38BDF8&point=0EA5E9&area=true&hide_border=true" alt="Contribution activity" />
+Open to Data Engineering and Analytics Engineering internships and junior roles.
+
 </div>
 
 ---
 
+## Quote
+
+> "Good data infrastructure is invisible when it works, and unmistakable when it doesn't."
+
+---
+
 <div align="center">
-
-### Contact
-
-[Email](mailto:mennarady15@gmail.com) · [GitHub](https://github.com/Menna-Rady) · [LinkedIn](https://linkedin.com/in/menna-mohammed0)
-
-Open to Data Engineering and Analytics Engineering opportunities.
-
+<sub>Built with ❤️ by Mennatullah Mohammed Rady</sub>
 </div>
