@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/photo.jpg" alt="Mennatullah Mohammed Rady" width="140" height="140" style="border-radius:50%; border:4px solid #a855f7; object-fit:cover; box-shadow: 0 0 25px rgba(168,85,247,0.5);" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07071a,100:a855f7&height=220&section=header&text=Mennatullah%20Mohammed%20Rady&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-# Mennatullah Mohammed Rady
-
-<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=24&duration=2800&pause=900&color=c084fc&background=07071AFF&center=true&vCenter=true&width=700&height=55&lines=Data+Engineer;ETL%2FELT+Pipelines;Analytics+Engineering;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Rotating roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=22&duration=2800&pause=900&color=c084fc&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Data+Engineer;ETL%2FELT+Pipelines;Analytics+Engineering;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Rotating roles" style="margin-top:-55px;" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=github-pages&logoColor=white)](https://menna-rady.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
