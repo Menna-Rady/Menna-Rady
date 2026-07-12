@@ -1,8 +1,16 @@
+<table width="100%" style="background:#07071a; border-radius:12px; border:none;">
+<tr>
+<td width="70%" style="padding:40px; background:#07071a; border:none;">
+<h1 style="color:#ffffff; margin:0; font-size:32px;">Mennatullah Mohammed Rady</h1>
+<h3 style="color:#c084fc; margin-top:8px; font-weight:normal;">Data Engineer</h3>
+</td>
+<td width="30%" align="center" style="background:#07071a; border:none;">
+<img src="assets/photo.jpg" alt="Mennatullah Mohammed Rady" width="140" height="140" style="border-radius:50%; border:4px solid #a855f7; object-fit:cover; box-shadow: 0 0 25px rgba(168,85,247,0.5);" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="assets/banner-new.svg" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
-
-<img src="assets/photo.jpg" alt="Mennatullah Mohammed Rady" width="120" height="120" style="border-radius: 50%; border: 4px solid #a855f7; margin: -80px 0 30px 950px; display: inline-block; box-shadow: 0 0 30px rgba(168, 85, 247, 0.4);" />
 
 # Hi, I'm Mennatullah Mohammed Rady 👋
 
