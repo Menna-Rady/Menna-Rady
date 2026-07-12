@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
+
 # Hi, I'm Mennatullah Mohammed Rady 👋
 
 **Data Engineer • ETL/ELT Pipelines • Analytics Engineering**
