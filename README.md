@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
+# Mennatullah Mohammed Rady
 
-# Hi, I'm Mennatullah Rady 👋
-
-**Data Engineer • ETL/ELT Pipelines • Analytics Engineering**
+<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=700&size=24&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=800&lines=Data+Engineer;ETL%2FELT+Pipelines;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Typing animation with portfolio colors" />
 
 </div>
 
