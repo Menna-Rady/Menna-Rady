@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,25:a855f7,50:22d3ee,75:fb7185,100:ec4899&height=230&section=header&text=Eng.%20Mennatullah%20Mohammed%20Rady&fontSize=32&fontColor=ffffff&fontAlignY=32&desc=Turning%20Raw%20Data%20Into%20Reliable%2C%20Decision-Ready%20Systems&descAlignY=52&descSize=16&descColor=fdf4ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b1a1a,50:b91c1c,100:e8998d&height=230&section=header&text=Eng.%20Mennatullah%20Mohammed%20Rady&fontSize=32&fontColor=ffffff&fontAlignY=32&desc=Turning%20Raw%20Data%20Into%20Reliable%2C%20Decision-Ready%20Systems&descAlignY=52&descSize=16&descColor=fde8e8&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=700&size=22&duration=2800&pause=900&color=ec4899&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Data+Engineer;ETL%2FELT+Pipelines;Analytics+Engineering;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Rotating roles" style="margin-top:-55px;" />
+<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=22&duration=2800&pause=900&color=e8998d&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Data+Engineer;ETL%2FELT+Pipelines;Analytics+Engineering;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Rotating roles" style="margin-top:-55px;" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ec4899?style=for-the-badge&logo=github-pages&logoColor=white)](https://menna-rady.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
-[![GitHub](https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menna-Rady)
-[![Email](https://img.shields.io/badge/Email-fb7185?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-b91c1c?style=for-the-badge&logo=github-pages&logoColor=white)](https://menna-rady.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
+[![GitHub](https://img.shields.io/badge/GitHub-b91c1c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menna-Rady)
+[![Email](https://img.shields.io/badge/Email-b91c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
 
 </div>
 
@@ -42,17 +42,17 @@ Data Engineering student ranked 1st in MIS at Capital University, currently comp
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-ec4899?style=for-the-badge&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-a855f7?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-22d3ee?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-fb7185?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-ec4899?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-a855f7?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22d3ee?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-fb7185?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-ec4899?style=for-the-badge&logo=powerbi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-a855f7?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-22d3ee?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-b91c1c?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-b91c1c?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-b91c1c?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-b91c1c?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-b91c1c?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-b91c1c?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b91c1c?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-b91c1c?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-b91c1c?style=for-the-badge&logo=powerbi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-b91c1c?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b91c1c?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -106,25 +106,25 @@ Open to Data Engineering and Analytics Engineering opportunities.
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Menna-Rady&show_icons=true&theme=dark&hide_border=true&bg_color=1a0b1a&title_color=ec4899&icon_color=22d3ee&text_color=fdf4ff&ring_color=a855f7" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-Rady&theme=dark&hide_border=true&background=1a0b1a&ring=ec4899&fire=fb7185&currStreakNum=22d3ee&currStreakLabel=fdf4ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Menna-Rady&show_icons=true&theme=dark&hide_border=true&bg_color=1a0707&title_color=b91c1c&icon_color=b91c1c&text_color=e8998d&ring_color=b91c1c" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-Rady&theme=dark&hide_border=true&background=1a0707&ring=b91c1c&fire=e8998d&currStreakNum=b91c1c&currStreakLabel=e8998d" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-Rady&layout=compact&theme=dark&hide_border=true&bg_color=1a0b1a&title_color=ec4899&text_color=fdf4ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-Rady&layout=compact&theme=dark&hide_border=true&bg_color=1a0707&title_color=b91c1c&text_color=e8998d" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-Rady&bg_color=1a0b1a&color=ec4899&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="Contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-Rady&bg_color=1a0707&color=b91c1c&line=b91c1c&point=e8998d&area=true&hide_border=true" alt="Contribution activity" />
 
 </div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Menna-Rady&color=ec4899&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=Menna-Rady&color=b91c1c&style=flat-square&label=Profile+views)
 
 </div>
