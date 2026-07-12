@@ -1,8 +1,14 @@
-<img src="assets/banner.svg" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
+<div align="center">
+
+<img src="assets/banner-new.svg" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
+
+<img src="assets/photo.jpg" alt="Mennatullah Mohammed Rady" width="120" height="120" style="border-radius: 50%; border: 4px solid #a855f7; margin: -80px 0 30px 950px; display: inline-block; box-shadow: 0 0 30px rgba(168, 85, 247, 0.4);" />
 
 # Hi, I'm Mennatullah Mohammed Rady 👋
 
 **Data Engineer • ETL/ELT Pipelines • Analytics Engineering**
+
+</div>
 
 <div align="center">
 
