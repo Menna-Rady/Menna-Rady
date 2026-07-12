@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
+<img src="assets/banner.svg" alt="Mennatullah Mohammed Rady - Data Engineer" width="100%" />
 
 # Hi, I'm Mennatullah Mohammed Rady 👋
 
@@ -7,9 +7,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=github-pages&logoColor=white)](https://menna-rady.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menna-Rady)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
+[![GitHub](https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menna-Rady)
+[![Email](https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
 
 <img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=22&duration=2800&pause=900&color=c084fc&background=07071a&center=true&vCenter=true&width=800&lines=Data+Engineer;ETL%2FELT+Pipelines;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Animated roles" />
 
@@ -46,17 +46,17 @@ Data Engineering student ranked 1st in MIS at Capital University, currently comp
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-a855f7?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-a855f7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-a855f7?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-a855f7?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-a855f7?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-a855f7?style=for-the-badge&logo=apachespark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a855f7?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-a855f7?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-a855f7?style=for-the-badge&logo=powerbi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-a855f7?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-a855f7?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -105,6 +105,27 @@ Open to Data Engineering and Analytics Engineering opportunities.
 > Good data infrastructure is invisible when it works, and unmistakable when it doesn't.
 
 ---
+
+<div align="center">
+
+### GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Menna-Rady&show_icons=true&theme=dark&hide_border=true&bg_color=07071a&title_color=a855f7&icon_color=a855f7&text_color=c084fc&ring_color=ec4899" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-Rady&theme=dark&hide_border=true&background=07071a&ring=a855f7&fire=ec4899&currStreakNum=a855f7&currStreakLabel=c084fc" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-Rady&layout=compact&theme=dark&hide_border=true&bg_color=07071a&title_color=a855f7&text_color=c084fc" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-Rady&bg_color=07071a&color=a855f7&line=a855f7&point=ec4899&area=true&hide_border=true" alt="Contribution activity" />
+
+</div>
 
 <div align="center">
 

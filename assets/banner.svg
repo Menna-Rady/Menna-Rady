@@ -1,0 +1,38 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ec4899;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="diagonalLines" patternUnits="userSpaceOnUse" width="20" height="20" patternTransform="rotate(-45)">
+      <line x1="0" y1="0" x2="0" y2="20" stroke="rgba(168, 85, 247, 0.1)" stroke-width="2" />
+    </pattern>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="1200" height="300" fill="#07071a" />
+
+  <!-- Gradient overlay -->
+  <rect width="1200" height="300" fill="url(#bannerGradient)" opacity="0.15" />
+
+  <!-- Diagonal lines pattern -->
+  <rect width="1200" height="300" fill="url(#diagonalLines)" />
+
+  <!-- Main title -->
+  <text x="600" y="90" font-family="Arial, sans-serif" font-size="56" font-weight="bold" fill="white" text-anchor="middle">
+    Mennatullah Mohammed Rady
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="150" font-family="Arial, sans-serif" font-size="40" font-weight="600" fill="#c084fc" text-anchor="middle">
+    Data Engineer
+  </text>
+
+  <!-- Tech stack -->
+  <text x="600" y="210" font-family="Arial, sans-serif" font-size="18" fill="#a89fc9" text-anchor="middle" opacity="0.8">
+    dbt | Snowflake | Airflow | PySpark | Azure
+  </text>
+
+  <!-- Accent line -->
+  <line x1="350" y1="240" x2="1050" y2="240" stroke="#ec4899" stroke-width="2" opacity="0.6" />
+</svg>
