@@ -1,24 +1,10 @@
-<table width="100%" style="background:#07071a; border-radius:12px; border:none;">
-<tr>
-<td width="70%" style="padding:40px; background:#07071a; border:none;">
-<h1 style="color:#ffffff; margin:0; font-size:32px;">Mennatullah Mohammed Rady</h1>
-<h3 style="color:#c084fc; margin-top:8px; font-weight:normal;">Data Engineer</h3>
-</td>
-<td width="30%" align="center" style="background:#07071a; border:none;">
-<img src="assets/photo.jpg" alt="Mennatullah Mohammed Rady" width="140" height="140" style="border-radius:50%; border:4px solid #a855f7; object-fit:cover; box-shadow: 0 0 25px rgba(168,85,247,0.5);" />
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-# Hi, I'm Mennatullah Mohammed Rady 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07071a,100:a855f7&height=230&section=header&text=Mennatullah%20Mohammed%20Rady&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%E2%80%A2%20ETL%2FELT%20Pipelines%20%E2%80%A2%20Analytics%20Engineering&descAlignY=55&descSize=16&descColor=c084fc&animation=fadeIn" width="100%"/>
+
+<img src="assets/photo.jpg" alt="Mennatullah Mohammed Rady" width="140" height="140" style="border-radius:50%; border:4px solid #a855f7; object-fit:cover; box-shadow: 0 0 25px rgba(168,85,247,0.5); margin-top:-70px;" />
 
 **Data Engineer • ETL/ELT Pipelines • Analytics Engineering**
-
-</div>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=github-pages&logoColor=white)](https://menna-rady.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a855f7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
