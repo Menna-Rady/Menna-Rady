@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menna-Rady)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=20&duration=2800&pause=900&color=a855f7&center=true&vCenter=true&width=760&lines=Data+Engineer;Building+ETL%2FELT+Pipelines;Dimensional+Data+Warehousing;Apache+Airflow+%2B+dbt+%2B+Snowflake;Ranked+1st+in+MIS" alt="Animated roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=22&duration=2800&pause=900&color=c084fc&background=07071a&center=true&vCenter=true&width=800&lines=Data+Engineer;ETL%2FELT+Pipelines;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Animated roles" />
 
 </div>
 
