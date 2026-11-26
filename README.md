@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b1a1a,50:b91c1c,100:e8998d&height=230&section=header&text=Eng.%20Mennatullah%20Mohammed%20Rady&fontSize=32&fontColor=ffffff&fontAlignY=32&desc=Turning%20Raw%20Data%20Into%20Reliable%2C%20Decision-Ready%20Systems&descAlignY=52&descSize=16&descColor=fde8e8&animation=fadeIn" width="100%"/>
+# Mennatullah Rady
 
-<img src="https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=600&size=22&duration=2800&pause=900&color=e8998d&background=00000000&center=true&vCenter=true&width=800&height=50&lines=Data+Engineer;ETL%2FELT+Pipelines;Analytics+Engineering;dbt+%2B+Airflow+%2B+Snowflake;Ranked+1st+in+MIS" alt="Rotating roles" style="margin-top:-55px;" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-b91c1c?style=for-the-badge&logo=github-pages&logoColor=white)](https://menna-rady.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b91c1c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/menna-mohammed0)
-[![GitHub](https://img.shields.io/badge/GitHub-b91c1c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menna-Rady)
-[![Email](https://img.shields.io/badge/Email-b91c1c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mennarady15@gmail.com)
+**Data & Analytics Engineering student**  
+Cairo, Egypt · [LinkedIn](https://linkedin.com/in/menna-mohammed0) · [Portfolio](https://menna-rady.github.io/portfolio/) · [Email](mailto:mennarady15@gmail.com)
 
 </div>
 
@@ -58,11 +54,11 @@ Data Engineering student ranked 1st in MIS at Capital University, currently comp
 
 ## Selected Projects
 
-### [Earnest Transformations](https://github.com/Menna-Rady/earnest_transformations)
+### [Earnest Data Platform](https://github.com/Menna-Rady/Earnest)
 dbt project for Egyptian e-commerce analytics with a MetricFlow semantic layer on Snowflake, built on a star schema for analytical querying.
 - **Tech**: dbt, Snowflake, MetricFlow, Star Schema, Analytics Engineering
 
-### Olympic Medals Data Pipeline
+### Olympic Medals Data Pipeline *(portfolio case study; no public repository linked)*
 End-to-end automated ETL pipeline using Airflow DAGs to scrape live Olympic medal data from Wikipedia into 6 structured datasets, with a multi-layer dbt warehouse (`fact_games_summary`, `fact_sport_summary`, `dim_olympics`, `dim_host`, `dim_sport`, `dim_season`) and Docker/Astro CLI containerization.
 - **Tech**: Apache Airflow, dbt, DuckDB, Docker, Python, BeautifulSoup, SQL
 
@@ -70,7 +66,11 @@ End-to-end automated ETL pipeline using Airflow DAGs to scrape live Olympic meda
 EDA and a Linear Regression model over 15+ years of Cairo weather data (2009–2025), deployed as an interactive Streamlit app with prediction, advice, and reporting views.
 - **Tech**: Python, Scikit-learn, Pandas, Streamlit, Matplotlib
 
-### Student Mental Stress Analysis
+### [CloudMS System Analysis](https://github.com/Menna-Rady/CloudMS-System-Analysis)
+UML and data-flow diagrams for a Cloud Services Management System, covering use case, activity, class and DFD models.
+- **Tech**: draw.io, UML, DFD, system design
+
+### Student Mental Stress Analysis *(portfolio case study; no public repository linked)*
 Multi-page Power BI dashboard analyzing stress patterns across 760 university students, with drill-through filters across academic performance, counseling attendance, and lifestyle factors.
 - **Tech**: Power BI, DAX, Data Modeling
 
@@ -92,7 +92,7 @@ Multi-page Power BI dashboard analyzing stress patterns across 760 university st
 - **GitHub**: [@Menna-Rady](https://github.com/Menna-Rady)
 - **Email**: [mennarady15@gmail.com](mailto:mennarady15@gmail.com)
 
-Open to Data Engineering and Analytics Engineering opportunities.
+Open to Data Engineering, Analytics Engineering, and BI Engineering opportunities.
 
 ---
 
@@ -102,29 +102,6 @@ Open to Data Engineering and Analytics Engineering opportunities.
 
 ---
 
-<div align="center">
+## Activity
 
-### GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Menna-Rady&show_icons=true&theme=dark&hide_border=true&bg_color=1a0707&title_color=b91c1c&icon_color=b91c1c&text_color=e8998d&ring_color=b91c1c" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Menna-Rady&theme=dark&hide_border=true&background=1a0707&ring=b91c1c&fire=e8998d&currStreakNum=b91c1c&currStreakLabel=e8998d" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menna-Rady&layout=compact&theme=dark&hide_border=true&bg_color=1a0707&title_color=b91c1c&text_color=e8998d" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menna-Rady&bg_color=1a0707&color=b91c1c&line=b91c1c&point=e8998d&area=true&hide_border=true" alt="Contribution activity" />
-
-</div>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=Menna-Rady&color=b91c1c&style=flat-square&label=Profile+views)
-
-</div>
+My repositories, commits, and topics are visible on [my GitHub profile](https://github.com/Menna-Rady).
